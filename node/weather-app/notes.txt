@@ -1,0 +1,5 @@
+jsonview chrome plugin
+request module(to send http requests)
+json stringify
+yargs --save (to validate input)
+node encodeURIComponent 
